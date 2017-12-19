@@ -1,0 +1,13 @@
+C:\Users\ce146511\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\ce146511\Desktop\Visual Basic sauce\VBChapter 5\Random Number Game\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\ce146511\Desktop\Visual Basic sauce\VBChapter 5\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\ce146511\Desktop\Visual Basic sauce\VBChapter 5\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\ce146511\Desktop\Visual Basic sauce\VBChapter 5\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\ce146511\Desktop\Visual Basic sauce\VBChapter 5\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\ce146511\Desktop\Visual Basic sauce\VBChapter 5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\ce146511\Desktop\Visual Basic sauce\VBChapter 5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\ce146511\Desktop\Visual Basic sauce\VBChapter 5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ce146511\Desktop\Visual Basic sauce\VBChapter 5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\ce146511\Desktop\Visual Basic sauce\VBChapter 5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\ce146511\Desktop\Visual Basic sauce\VBChapter 5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\ce146511\Desktop\Visual Basic sauce\VBChapter 5\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
